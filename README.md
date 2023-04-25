@@ -1,7 +1,5 @@
 
 # C - printf
-
-This repository contains C programs that implement a data structure for dogs. The programs were completed as part of the Holberton School curriculum.
  <div align="center"  style='color:#008F11;'>
 <img   src="https://i.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.webp" alt="c" width="60%" height="auto"/> 
  
